@@ -1,20 +1,27 @@
 {
   "files": {
     "main.css": "/Home/static/css/main.ffff3fb3.css",
-    "main.js": "/Home/static/js/main.a0599f1e.js",
+    "main.js": "/Home/static/js/main.06c8bfe0.js",
+    "static/media/weekyBudget.png": "/Home/static/media/weekyBudget.4cba0f8e0e077e0eccb0.png",
     "static/media/Post3.png": "/Home/static/media/Post3.7f8080bd6c7ec54cfc8b.png",
     "static/media/adminImage.png": "/Home/static/media/adminImage.e9965a78a9eb915d67c2.png",
+    "static/media/Note.png": "/Home/static/media/Note.a881ef754d7914bc6fa4.png",
+    "static/media/Rock-Paper-Scissor.png": "/Home/static/media/Rock-Paper-Scissor.cca4553f5dfcf633dd76.png",
     "static/media/Post2.png": "/Home/static/media/Post2.e7cd168a2cafa11e81cd.png",
     "static/media/Post4.jpg": "/Home/static/media/Post4.711b3993eb927ef2966b.jpg",
     "static/media/main_bg.png": "/Home/static/media/main_bg.0bbbf00018c241959227.png",
+    "static/media/Blog.png": "/Home/static/media/Blog.9a4307cbc2627d1446c8.png",
     "static/media/Post1.jpg": "/Home/static/media/Post1.5b4dfd1efc651f721ef9.jpg",
+    "static/media/Game.png": "/Home/static/media/Game.4b03bfc231248ae2685a.png",
+    "static/media/Calcolator.png": "/Home/static/media/Calcolator.d05f1fd88065ff4c64b3.png",
+    "static/media/Tic-Tac-Toe.png": "/Home/static/media/Tic-Tac-Toe.b27c728ce9072ccabd21.png",
     "static/media/404.svg": "/Home/static/media/404.b9bece43cce3dc77605f7d22a843d884.svg",
     "index.html": "/Home/index.html",
     "main.ffff3fb3.css.map": "/Home/static/css/main.ffff3fb3.css.map",
-    "main.a0599f1e.js.map": "/Home/static/js/main.a0599f1e.js.map"
+    "main.06c8bfe0.js.map": "/Home/static/js/main.06c8bfe0.js.map"
   },
   "entrypoints": [
     "static/css/main.ffff3fb3.css",
-    "static/js/main.a0599f1e.js"
+    "static/js/main.06c8bfe0.js"
   ]
 }
